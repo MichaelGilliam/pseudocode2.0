@@ -54,7 +54,7 @@ if down button is pressed {
 
 10; else keep doors closed 
 
-11; if elevator is at passenger floor 
+11: Elevator arrives at passenger level
 
 12; passenger presses desired floor button
 
@@ -62,9 +62,4 @@ if down button is pressed {
 
 14; else if disired floor is down, then press  (--)
 
-elevatorUp = ++ 
-if()
 
-
-if (elevator > passengerFloor) 
-    then 
