@@ -53,6 +53,8 @@ function to check if more passengers want to get in the elevator while going to 
 
 7; else continue going to passenger floor
 
+function that will check if at passenger floor
+
 8; if elevator = passenger floor 
 
 9; open doors 
