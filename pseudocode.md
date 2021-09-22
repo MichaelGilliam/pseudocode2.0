@@ -33,12 +33,17 @@ if down button is pressed {
 }
 
 // 
-
+    function:  elevatorFloor
+0; if elevator < elevatorFloor display currentFloor level 
+    else if elevator > elevatorFloor display nothing
+    function to check current floor:
 1; Passenger presses outside elevator button
 
 2; if elevator on passenger floor, open
 
 3; else go to passenger floor
+
+function to check if more passengers want to get in the elevator while going to passenger 
 
 4; while elevator is going down to passenger floor (while)
 
@@ -61,5 +66,7 @@ if down button is pressed {
 13; if disired floor is up, then press inside up botton  (++)
 
 14; else if disired floor is down, then press inside down button (--)
+
+
 
 
