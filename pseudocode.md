@@ -17,15 +17,23 @@ print, display, show, - print , show, or display your outcome of your code (cons
 functions have to be broken down 
 
 // what do we want?
+
 // want the elevator to go down and up
+
 // want the elevator to open and close doors
+
 // want the elevator to have buttons, inside and out
+
 // want to check if elevator is at current floor of passenger
 // want to check if other passengers have called the elevator while on the way to original passenger
+
 // we want seperate buttons to go up or down
+
 // want elevator buttons to go up when pressed up
+
 // want elevator buttons to go down when pressed down
-// if else ; if up button is pressed {
+
+// if up button is pressed {
     go up
 }
 if down button is pressed {
@@ -36,14 +44,16 @@ if down button is pressed {
     function:  elevatorFloor
 0; if elevator < elevatorFloor display currentFloor level 
     else if elevator > elevatorFloor display nothing
+
     function to check current floor:
+
 1; Passenger presses outside elevator button
 
 2; if elevator on passenger floor, open
 
 3; else go to passenger floor
 
-function to check if more passengers want to get in the elevator while going to passenger 
+    function to check if more passengers want to get in the elevator while going to passenge: 
 
 4; while elevator is going down to passenger floor (while)
 
@@ -53,7 +63,7 @@ function to check if more passengers want to get in the elevator while going to 
 
 7; else continue going to passenger floor
 
-function that will check if elevator at passenger floor
+    function that will check if elevator at passenger floor
 
 8; if elevator = passenger floor 
 
@@ -67,7 +77,7 @@ function to open door at passenger floor
 
 12: Open doors 
 
-function to go to move floor to floor going up or down
+    function to go to move floor to floor going up or down
 
 13; passenger presses desired floor by using a button on the inside.
 
