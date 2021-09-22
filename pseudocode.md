@@ -91,3 +91,5 @@ function to open door at passenger floor
 15; else if disired floor is down, then press inside down button (--)
 
 // in conclusion, elevators are rough. 
+
+// probably not entirely finished, but spent too much time on it. 
