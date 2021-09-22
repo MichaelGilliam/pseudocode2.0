@@ -69,9 +69,9 @@ function to open door at
 
 13; passenger presses desired floor by using a button on the inside.
 
-13; if disired floor is up, then press inside up botton  (++)
+14; if disired floor is up, then press inside up botton  (++)
 
-14; else if disired floor is down, then press inside down button (--)
+15; else if disired floor is down, then press inside down button (--)
 
 
 
