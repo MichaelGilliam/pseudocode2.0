@@ -4,8 +4,6 @@ Start the program
 
 INIT : INITIALIZE VARIBLES - these are my varibles, here is what i need to get started
 
-
-
 set value to 0 
 
 objects: Elevator, doors, display, buttons inside, buttons outside. 
@@ -16,9 +14,22 @@ decrement: decrease value of varible - something like i -- (elevator going down)
 
 print, display, show, - print , show, or display your outcome of your code (console.log) (return) 
 
-// if else ; if button is pressed {
-    go down
+// what do we want?
+// want the elevator to go down and up
+// want the elevator to open and close doors
+// want the elevator to have buttons, inside and out
+// want to check if elevator is at current floor of passenger
+// want to check if other passengers have called the elevator while on the way to original passenger
+// we want seperate buttons to go up or down
+// want elevator buttons to go up when pressed up
+// want elevator buttons to go down when pressed down
+// if else ; if up button is pressed {
+    go up
 }
+if down button is pressed {
+    go down 
+}
+
 // 
 
 1; Passenger presses outside elevator button
