@@ -58,8 +58,8 @@ if down button is pressed {
 
 12; passenger presses desired floor button
 
-13; if disired floor is up, then press up inside button (++)
+13; if disired floor is up, then press inside up botton  (++)
 
-14; else if disired floor is down, then press  (--)
+14; else if disired floor is down, then press inside down button (--)
 
 
