@@ -1,3 +1,8 @@
+    Instructions:  Passenger should be able to input whether to go up or down the elevator.
+
+    Elevator should go to their floor, open its doors, and allow them on.  The passenger can input which floor they would like to go onto.  Elevator should take them to their destination while also picking up and dropping off other passengers, efficently along the way up.
+
+
 First line of pseudocode starts now.
 
 Start the program
@@ -85,3 +90,4 @@ function to open door at passenger floor
 
 15; else if disired floor is down, then press inside down button (--)
 
+// in conclusion, elevators are rough. 
