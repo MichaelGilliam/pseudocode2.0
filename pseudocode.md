@@ -61,9 +61,13 @@ function that will check if elevator at passenger floor
 
 10; else keep doors closed 
 
+function to open door at 
+
 11: Elevator arrives at passenger level
 
-12; passenger presses desired floor button
+12: Open doors 
+
+13; passenger presses desired floor by using a button on the inside.
 
 13; if disired floor is up, then press inside up botton  (++)
 
