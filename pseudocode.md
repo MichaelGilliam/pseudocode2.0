@@ -14,6 +14,8 @@ decrement: decrease value of varible - something like i -- (elevator going down)
 
 print, display, show, - print , show, or display your outcome of your code (console.log) (return) 
 
+functions have to be broken down 
+
 // what do we want?
 // want the elevator to go down and up
 // want the elevator to open and close doors
@@ -60,3 +62,9 @@ if down button is pressed {
 
 14; else if disired floor is down, then press  (--)
 
+elevatorUp = ++ 
+if()
+
+
+if (elevator > passengerFloor) 
+    then 
